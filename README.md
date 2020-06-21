@@ -1,4 +1,4 @@
-# holman/ama
+# jimytc/ama
 
 A repository to ask [@jimytc](https://twitter.com/jimytc) anything.
 
