@@ -1,2 +1,2 @@
-<!-- This repo is not for reporting bugs in GitHub -->
-<!-- For support and feature requests please email: support@github.com -->
+<!-- This repo is not for private questions, or sharing emotions -->
+<!-- Be polite to everyone here. -->
