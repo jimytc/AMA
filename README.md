@@ -2,7 +2,7 @@
 
 A repository to ask [@jimytc](https://twitter.com/jimytc) anything.
 
-I have developed in Ruby for 7 years, mostly as a Ruby on Rails developer. I was an Android developer before. Most of my career time are about backend engineering. I sometimes [write](https://jimytc.com) about engineering, collaboration. If you have a question you're interested in reading me tap out a response for, this is just the joint for you.
+I have become a Ruby on Rails developer for 7+ years. I was an Android developer before. I worked for AsusTek, [Cardinal Blue](https://cardinalblue.com) and now for [Chomp app](https://chomp.app). I sometimes [write](https://jimytc.com) about engineering, collaboration. If you have a question you're interested in reading me tap out a response for, this is just the joint for you.
 
 ### Ask a question
 
